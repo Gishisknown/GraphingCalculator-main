@@ -3,6 +3,6 @@ public class Main {
         System.out.println("skibid toilet");
         int x = 34;
         int x3 = 45;
-        x3 = x - x;
+        x3 = x - x + x;
     }
 }
